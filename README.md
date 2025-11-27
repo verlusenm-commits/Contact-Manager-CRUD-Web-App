@@ -1,16 +1,75 @@
-# Contact Manager – CRUD Web App
+Mini CRUD com Simulação de API (Front-end + Fetch API)
 
-Uma aplicação simples para cadastrar, listar, editar e excluir contatos. Armazena os dados localmente usando LocalStorage, simulando interações com um banco de dados.
+Este projeto é uma interface simples para simular operações CRUD (Create, Read, Update e Delete) consumindo dados de uma API falsa. Foi desenvolvido com HTML, CSS e JavaScript, utilizando Fetch API para comunicação com dados externos.
+Ele faz parte do meu portfólio voltado para vagas de Estágio em Desenvolvimento Fullstack, demonstrando entendimento de manipulação de dados e integração com APIs.
 
-Aplicação simples de gerenciamento de contatos utilizando LocalStorage.
+Funcionalidades
 
-## Funcionalidades
-- Criar, editar, listar e excluir contatos
-- Dados persistem no navegador
-- Interface limpa e objetiva
+Listagem de itens consumidos via Fetch API
 
-## Tecnologias
-- HTML
-- CSS
-- JavaScript
-# Contact-Manager-CRUD-Web-App
+Criação de novos registros
+
+Edição e atualização de dados
+
+Exclusão de itens
+
+Interface simples, responsiva e fácil de usar
+
+Estrutura organizada seguindo boas práticas de front-end
+
+Tecnologias utilizadas
+
+HTML5 – Estrutura da página
+
+CSS3 – Estilização e responsividade
+
+JavaScript (Fetch API) – Requisições simuladas à API
+
+JSONPlaceholder / db.json – Fonte de dados fake
+
+Estrutura do Projeto
+├── index.html  
+├── style.css  
+└── script.js  
+
+Objetivo do Projeto
+
+Este projeto foi criado com foco em:
+
+Fundamentos de consumo de API
+
+Operações CRUD simuladas
+
+Manipulação de DOM
+
+Organização e modularização simples de código
+
+Prática de integração front-end com dados externos
+
+Publicação de projetos no GitHub Pages
+
+Ele demonstra minha capacidade de integrar interfaces com dados dinâmicos, uma habilidade essencial para vagas de estágio em desenvolvimento.
+
+Como testar o projeto
+Online (GitHub Pages)
+
+(adicione o link quando publicar o repositório)
+https://seuusuario.github.io/projeto-crud-api/
+
+Próximas melhorias
+
+Migrar para API real com backend
+
+Adicionar loading states
+
+Inserir validação de formulários
+
+Implementar paginação
+
+Criar layout mais moderno com componentes reutilizáveis
+
+Desenvolvido por
+
+Verluse Nascimento Martins
+Estudante de Análise e Desenvolvimento de Sistemas
+Focada em Desenvolvimento Fullstack, SaaS e Inovação Tecnológica
