@@ -33,8 +33,6 @@ Ele faz parte do meu portfólio voltado para vagas de Estágio em Desenvolviment
 ├── style.css
 └── script.js
 
-# login-page-basic-auth
-
 ---
 
 ## Objetivo do Projeto
@@ -50,8 +48,6 @@ Este projeto foi criado com foco em:
 Ele demonstra minha capacidade de integrar interfaces com dados dinâmicos, uma habilidade essencial para vagas de estágio em desenvolvimento.
 
 ---
-
-## Como testar o projeto
 
 ## Preview da Interface
 
