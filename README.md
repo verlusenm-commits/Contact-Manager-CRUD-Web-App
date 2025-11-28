@@ -53,13 +53,13 @@ Também demonstra minha capacidade de construir pequenas aplicações funcionais
 
 ---
 
-## ▶ Como testar o projeto
+## Como testar o projeto
 
 ### **Versão online (GitHub Pages)**
   
 `https://verlusenm-commits.github.io/Contact-Manager-CRUD-Web-App/`
 
-### 💻 Rodar localmente
+### Rodar localmente
 
 1. Faça o download do repositório  
 2. Abra o arquivo `index.html` no navegador  
