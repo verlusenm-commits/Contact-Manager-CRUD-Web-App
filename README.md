@@ -53,17 +53,9 @@ Também demonstra minha capacidade de construir pequenas aplicações funcionais
 
 ---
 
-## Como testar o projeto
+## Pré-visualização da interface
+<img width="1047" height="328" alt="519890881-ca52fb94-bb89-486f-b984-ab4c18a331a5" src="https://github.com/user-attachments/assets/8f17fdca-1e32-49e3-9c3e-2daf82f8fb28" />
 
-### **Versão online (GitHub Pages)**
-  
-`https://verlusenm-commits.github.io/Contact-Manager-CRUD-Web-App/`
-
-### Rodar localmente
-
-1. Faça o download do repositório  
-2. Abra o arquivo `index.html` no navegador  
-3. Use a interface para criar, editar e excluir contatos  
 
 ---
 
